@@ -35,3 +35,10 @@ Thumbs.db
 desktop.ini
 .DS_Store
 .run.bat
+
+# Archives & Backups
+*.7z
+*.zip
+*.tar.gz
+*.rar
+*.bak

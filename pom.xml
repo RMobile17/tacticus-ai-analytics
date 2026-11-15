@@ -39,5 +39,12 @@
                 <exec.mainClass>com.tacticus.analytics.TacticusApiDownloader</exec.mainClass>
             </properties>
         </profile>
+
+        <profile>
+            <id>generate-bosses</id>
+            <properties>
+                <exec.mainClass>com.tacticus.analytics.TacticusBossKnowledgeGenerator</exec.mainClass>
+            </properties>
+        </profile>
     </profiles>
 </project>

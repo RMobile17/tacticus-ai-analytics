@@ -1,1 +1,1 @@
-mvn compile exec:java -Pgenerate
+mvn compile exec:java -Pgenerate -Dexec.args="--unlocked-only"
