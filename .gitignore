@@ -1,0 +1,37 @@
+# Tacticus API Key & Secrets (NEVER commit your API key!)
+api_key.txt
+data/api_key.txt
+**/api_key.txt
+
+# Personal account data (downloaded via Tacticus API)
+data/my_player_data.json
+data/my_guild_data.json
+data/my_guild_raid_data.json
+**/my_*.json
+
+# Generated personal knowledge base (contains your personal roster & levels)
+tacticus_notebooklm_kb.md
+*.notebooklm_kb.md
+
+# Maven build outputs
+target/
+*.class
+
+# Log files
+*.log
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+.run.bat
