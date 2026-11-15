@@ -11,7 +11,12 @@ data/my_guild_raid_data.json
 
 # Generated personal knowledge base (contains your personal roster & levels)
 tacticus_notebooklm_kb.md
+tacticus_bosses_kb.md
 *.notebooklm_kb.md
+
+# YAML files (using JSON equivalents)
+*.yaml
+*.yml
 
 # Maven build outputs
 target/
